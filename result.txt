@@ -1,0 +1,5 @@
+Total test case: 600 
+Google Chrome: 359 PASS, 241 FAIL 
+FireFox: 359 PASS, 241 FAIL 
+Microsoft Edge: 359 PASS, 241 FAIL 
+1800 test cases were accomplished during the test for three browsers 
